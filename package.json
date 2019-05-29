@@ -1,7 +1,7 @@
 {
-  "name": "Friend-Finder",
+  "name": "",
   "version": "1.0.0",
-  "description": "## Description The objective of this application is to find the best match for the user by answering 10 questions. The user's answers will be compared to the other friends' answers to find the best match. The application is coded using NodeJS, HTML5, CSS3 and JQuery.",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/azhelle16/Friend-Finder.git"
+    "url": ""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/azhelle16/Friend-Finder/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/azhelle16/Friend-Finder#readme",
+  "homepage": "",
   "dependencies": {
     "body-parser": "1.18.3",
     "dotenv": "7.0.0",
